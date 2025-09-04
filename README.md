@@ -2,7 +2,7 @@
 
 *'Dream as if you will live forever and live as if you'll die today'*
 
-Freshman in Lanzhou University
+Sophomore in Lanzhou University, major in Artificial Intelligence
 <!--
 **nftuoa/nftuoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
